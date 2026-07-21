@@ -14,10 +14,8 @@ app.layout = html.Div(
     style={"padding": "30px"},
     children=[
         html.H1(
-            html.H1(
-                "Pink Morsel Sales Visualizer",
-                style={"textAlign": "center"}
-            ),
+            "Pink Morsel Sales Visualizer",
+            style={"textAlign": "center"}
         ),
 
         html.Div([
